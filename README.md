@@ -1,16 +1,26 @@
-# Server Performance Stats Script
+# 🖥️ Server Performance Stats Script
 
-This project provides a simple bash script (server-stats.sh) to analyze server performance metrics on any Linux machine.
+Project Page: [GitHub Repository](https://github.com/sadeghi79/server-performance-stats)
 
-## Features
-- Total CPU usage
-- Total memory usage (free, used, and percentage)
-- Total disk usage (free, used, and percentage)
-- Top 5 processes by CPU usage
-- Top 5 processes by memory usage
+A simple Bash script to monitor key server performance metrics on any Linux machine. Quickly check CPU, memory, disk usage, and top resource-consuming processes.
 
-## How to Run
+---
+
+## ⚡ Features
+| Metric | Description |
+|--------|-------------|
+| CPU Usage | Shows total CPU usage percentage |
+| Memory Usage | Displays free, used memory and percentage |
+| Disk Usage | Displays free, used disk space and percentage |
+| Top CPU Processes | Lists top 5 processes by CPU usage |
+| Top Memory Processes | Lists top 5 processes by memory usage |
+
+---
+
+## 🚀 How to Run
 `bash
+# Make the script executable
 chmod +x server-stats.sh
+
+# Run the script
 ./server-stats.sh
-# server-performance-stats
