@@ -1,6 +1,7 @@
 # 🖥️ Server Performance Stats Script
 
 Project Page: [GitHub Repository](https://github.com/sadeghi79/server-performance-stats)
+https://roadmap.sh/projects/server-stats
 
 A simple Bash script to monitor key server performance metrics on any Linux machine. Quickly check CPU, memory, disk usage, and top resource-consuming processes.
 
